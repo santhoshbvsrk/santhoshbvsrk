@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning -- Machine Learning Optimization Techniques
 
-👯 I’m looking to collaborate on -- Machine Learning Projects
+👯 I’m looking to collaborate on -- Data Science & Machine Learning Projects
 
 📫 We can get connected on: (https://www.linkedin.com/in/santhosh-kumar-bvsrk)
 
