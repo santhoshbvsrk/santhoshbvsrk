@@ -10,7 +10,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/santhoshbvsrk?style=social)
 
-![LinkedIn: Connect (shields.io)](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social)
+
 
 ![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=EDA-Python%20Forks&style=social)
 
@@ -18,7 +18,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/santhoshbvsrk/EDA-Python?label=EDA-Python%20Repo%20size&style=social)
 
-![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=ML%20Projects%20Forks&style=social)
+![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/Machine-Learning-Projects?label=ML%20Projects%20Forks&style=social)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/Machine-Learning-Projects?label=ML%20Repo%20Watchers&style=social)
 
