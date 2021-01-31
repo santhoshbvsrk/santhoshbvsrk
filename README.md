@@ -1,8 +1,11 @@
 ### Hi there 👋 Santhosh here
 🔭 Currently Working on -- Machine Learning Projects
-  🌱 I’m currently learning -- Machine Learning Optimization Techniques
-  👯 I’m looking to collaborate on -- Machine Learning Projects
-  📫 How to reach me: (https://www.linkedin.com/in/santhosh-kumar-bvsrk)
+
+🌱 I’m currently learning -- Machine Learning Optimization Techniques
+
+👯 I’m looking to collaborate on -- Machine Learning Projects
+
+📫 How to reach me: (https://www.linkedin.com/in/santhosh-kumar-bvsrk)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/santhoshbvsrk?style=social)
