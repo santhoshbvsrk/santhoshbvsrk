@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋 Santhosh here
+🔭 Currently Working on -- Machine Learning Projects
+  🌱 I’m currently learning -- Machine Learning Optimization Techniques
+  👯 I’m looking to collaborate on -- Machine Learning Projects
+  📫 How to reach me: (https://www.linkedin.com/in/santhosh-kumar-bvsrk)
 
-<!--
-**santhoshbvsrk/santhoshbvsrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/santhoshbvsrk?style=social)
 
-- 🔭 I’m currently working on ...Machine Learning projects
-- 🌱 I’m currently learning ... Machine Learning Optimization Techniques
-- 👯 I’m looking to collaborate on ... Machine Learning Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... <a href=”https://www.linkedin.com/in/santhosh-kumar-bvsrk/"><img src=”https://img.shields.io/linkedin/follow/your_twitter_username_here?label=Follow&style=social"></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square" alt="LinkedIn Follow">
+![LinkedIn: Connect (shields.io)](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=EDA-Python%20Forks&style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/EDA-Python?label=EDA-Python%20Repo%20Watchers&style=social)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/santhoshbvsrk/EDA-Python?label=EDA-Python%20Repo%20size&style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=ML%20Projects%20Forks&style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/Machine-Learning-Projects?label=ML%20Repo%20Watchers&style=social)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/santhoshbvsrk/Machine-Learning-Projects?label=ML%20Repo%20size&style=social)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santhoshbvsrk/Machine-Learning-Projects?label=Commit%20Activity%20for%20ML%20Repo&style=social)
+
+  
+![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/Machine-Learning-Projects?style=social)
