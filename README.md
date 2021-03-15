@@ -1,7 +1,7 @@
 ### Hi there 👋 Santhosh here
 
 
-🔭 Currently Working on -- Machine Learning Projects
+🔭 Currently Working on -- Machine Learning & Deep Learning Projects
 
 🌱 I’m currently learning -- Machine Learning Optimization Techniques
 
