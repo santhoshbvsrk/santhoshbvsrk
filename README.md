@@ -3,7 +3,7 @@
 
 🔭 Currently Working on -- Machine Learning & Deep Learning Projects
 
-🌱 I’m currently learning -- Machine Learning Optimization Techniques
+🌱 I’m currently learning -- Computer Vision
 
 👯 I’m looking to collaborate on -- Machine Learning & Deep Learning Projects
 
