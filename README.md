@@ -14,7 +14,7 @@
 
 
 
-![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=EDA-Python%20Forks&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/EDA-Python?label=Watchers&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/santhoshbvsrk/EDA-Python)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santhoshbvsrk/EDA-Python?label=Commit%20Activity)
+![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/EDA-Python?label=EDA-Python%20Forks&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/EDA-Python?label=Watchers&style=social) ![GitHub repo size] (https://img.shields.io/github/repo-size/santhoshbvsrk/EDA-Python)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santhoshbvsrk/EDA-Python?label=Commit%20Activity)
 
 
 ![GitHub forks](https://img.shields.io/github/forks/santhoshbvsrk/Machine-Learning-Projects?label=Machine%20Learning%20Projects%20Forks&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/santhoshbvsrk/Machine-Learning-Projects?label=Watchers&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/santhoshbvsrk/Machine-Learning-Projects) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santhoshbvsrk/Machine-Learning-Projects?label=Commit%20Activity)
